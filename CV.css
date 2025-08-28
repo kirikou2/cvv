@@ -1,0 +1,112 @@
+#div{
+    border: solid 2px black;
+    border-radius: 20px;
+    border-top-left-radius:12px ;
+    border-bottom-left-radius: 12px;
+    height: 180vh;
+    width: 130vh;
+    display: flex;
+    margin-left: 35vh;
+    margin-top: 3vh;
+    margin-bottom: 10vh;
+}
+#div0   {
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 230px;
+    border: solid 2px rgb(16, 16, 80);
+    background-color:  rgb(16, 16, 80);
+    height: 45vh;
+    width: 38vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#imag{
+    /* margin-left: 35vh; */
+    margin-top: 50px;
+    /* margin-bottom: 10vh; */
+    border-radius: 50%;
+}
+#div1{
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 230px;
+     border: solid 2px rgb(16, 16, 80);
+    background-color:  rgb(16, 16, 80);
+     height: calc(180vh - 41.6vh);
+    width: 38vh;
+    margin-top: -30px;
+    color: white;
+}
+#div111{
+  margin-top: 60px;
+  margin-left: 30px;
+}
+#div111 h4{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#s1{
+    display: flex;
+    gap: 10px;
+}
+#s1 p{
+
+}
+#divbar{
+    display: flex;
+    gap: 30px;
+}
+#bar{
+    border: solid 1px white;
+    background-color: white;
+    height: 5px;
+    width: 30px;
+    border-radius: 20px;
+    margin-top: 22px;
+    margin-left: -75px;
+}
+#bar1{
+    border: solid 1px rgb(102, 102, 237);
+    background-color: rgb(102, 102, 237);
+    height: 5px;
+    width: 30px;
+    border-radius: 20px;
+    margin-top: 22px;
+     margin-left: 10px;
+}
+#div2 {
+    margin-top: 110px;
+    margin-left: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+#P{
+    font-size:22px;
+    color: rgb(10, 100, 149);
+    margin-top: -22PX;
+}
+#h5{
+    margin-top: 14vh;
+    margin-left: 30px;
+}
+#line{
+    border: solid 2px rgb(16, 16, 80);
+    width: 0px;
+    height: 100vh;
+}
+#div5{
+    display: flex;
+}
+#div6{
+
+}
+#div7{
+     border: solid 1px rgb(16, 16, 80);
+     border-radius: 60%;
+     height: 13px;
+     width: 13px;
+     background-color:  rgb(16, 16, 80);
+     margin-top: -2px;
+     margin-left: -8px ;
+}
